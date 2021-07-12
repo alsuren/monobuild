@@ -1,4 +1,4 @@
-module github.com/charypar/monobuild
+module github.com/alsuren/monobuild
 
 go 1.16
 
