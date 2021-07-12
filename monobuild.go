@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/charypar/monobuild/cmd"
+	"github.com/alsuren/monobuild/cmd"
 )
 
 func main() {

@@ -4,10 +4,10 @@ import (
 	"fmt"
 	"strings"
 
+	"github.com/alsuren/monobuild/diff"
+	"github.com/alsuren/monobuild/graph"
+	"github.com/alsuren/monobuild/manifests"
 	"github.com/bmatcuk/doublestar"
-	"github.com/charypar/monobuild/diff"
-	"github.com/charypar/monobuild/graph"
-	"github.com/charypar/monobuild/manifests"
 )
 
 func joinErrors(message string, errors []error) error {

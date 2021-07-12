@@ -4,7 +4,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/charypar/monobuild/graph"
+	"github.com/alsuren/monobuild/graph"
 )
 
 func Test_Impacted(t *testing.T) {

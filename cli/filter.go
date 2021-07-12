@@ -3,8 +3,8 @@ package cli
 import (
 	"fmt"
 
-	"github.com/charypar/monobuild/graph"
-	"github.com/charypar/monobuild/set"
+	"github.com/alsuren/monobuild/graph"
+	"github.com/alsuren/monobuild/set"
 )
 
 type filter struct {

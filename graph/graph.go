@@ -3,7 +3,7 @@ package graph
 import (
 	"sort"
 
-	"github.com/charypar/monobuild/set"
+	"github.com/alsuren/monobuild/set"
 )
 
 // Graph is a DAG with string labeled vertices and int colored edges

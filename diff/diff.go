@@ -6,7 +6,7 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/charypar/monobuild/graph"
+	"github.com/alsuren/monobuild/graph"
 )
 
 // BranchMode is the diff mode based on the kind of branch, either Feature or Main

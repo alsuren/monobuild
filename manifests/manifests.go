@@ -7,7 +7,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/charypar/monobuild/graph"
+	"github.com/alsuren/monobuild/graph"
 )
 
 // Kind of the dependency (enum)

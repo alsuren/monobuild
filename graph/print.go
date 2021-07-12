@@ -5,7 +5,7 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/charypar/monobuild/set"
+	"github.com/alsuren/monobuild/set"
 )
 
 // Weak shows as a dashed line

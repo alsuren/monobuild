@@ -5,7 +5,7 @@ import (
 	"io/ioutil"
 	"log"
 
-	"github.com/charypar/monobuild/cli"
+	"github.com/alsuren/monobuild/cli"
 	"github.com/spf13/cobra"
 )
 
